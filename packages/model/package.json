@@ -19,9 +19,9 @@
     "@nitic-astronomy/prettier": "workspace:*",
     "@nitic-astronomy/tsconfig": "workspace:*",
     "eslint-config-nitic-astronomy-node": "workspace:*",
-    "jest": "29.5.0"
+    "jest": "29.7.0"
   },
   "dependencies": {
-    "zod": "3.21.4"
+    "zod": "3.24.2"
   }
 }
